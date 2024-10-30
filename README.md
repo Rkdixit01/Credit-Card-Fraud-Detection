@@ -9,7 +9,8 @@ Detect fraudulent transactions effectively and with high precision.
 Handle imbalanced data to improve model performance on the minority class (fraud cases).
 Create a scalable and interpretable model that can be used as a baseline for more complex algorithms.
 # Dataset
-The dataset used is the Credit Card Fraud Detection Dataset from Kaggle, which contains anonymized credit card transactions labeled as fraudulent or non-fraudulent. This dataset is highly imbalanced, with only a small fraction of transactions labeled as fraud.
+The dataset used is the Credit Card Fraud Detection Dataset from Kaggle, which contains anonymized credit card transactions labeled as fraudulent or non-fraudulent. This dataset is highly imbalanced, with only a small fraction of transactions labeled as fraud. Here is the dataset link
+      "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"
 
 Features: 30 features, including Time, Amount, and anonymized variables V1 to V28.
 Target: Class (1 indicates a fraudulent transaction, 0 indicates a legitimate transaction).
